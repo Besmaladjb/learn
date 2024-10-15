@@ -1,4 +1,5 @@
 print("Hola")
 
-print("iwa chan ~ ~")
+print("Iwa chan ~ ~")
 print("HEY HEY HEY !!!!!!")
+print("Boke Hinata boke . . . ")
